@@ -1,0 +1,19 @@
+git init
+git init --bare
+git status
+git add nome
+git add .
+git commit -m "mensagem"
+git log
+git log --oneline
+git log -p
+git remote
+git remote add nome url
+git remote -v
+git remote rename nome nome
+git clone caminho nome
+git push nome branch
+git push -u orign master
+git pull nome branch
+git branch
+git branch nome
