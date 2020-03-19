@@ -21,3 +21,4 @@ git branch nome
 git checkout branch
 git checkout -b branch
 git merge branch
+git rebase branch
