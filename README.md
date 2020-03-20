@@ -38,4 +38,8 @@ git stash apply posição
 git stash drop posição
 git stash pop posição
 git stash pop
+git diff
+git dff commit..commit
+git tag 
+git tag -a nome -m "mensagem"
 ```
