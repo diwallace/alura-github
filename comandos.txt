@@ -26,3 +26,5 @@ git checkout -- arquivo
 git checkout .
 git reset HEAD .
 git reset HEAD arquivo
+git stash
+git stash list
