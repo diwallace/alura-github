@@ -28,3 +28,7 @@ git reset HEAD .
 git reset HEAD arquivo
 git stash
 git stash list
+git stash apply posição
+git stash drop posição
+git stash pop posição
+git stash pop
